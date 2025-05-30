@@ -1,7 +1,7 @@
 # Sistema Comercial
 
 
-## *Caracteristicas de mi proyecto
+## Caracteristicas del proyecto
 
  Fácil de usar, brinda al dueño una herramienta útil para controlar el negocio.
 
