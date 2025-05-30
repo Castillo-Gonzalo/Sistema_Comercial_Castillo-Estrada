@@ -16,3 +16,5 @@
  Todo funciona en red, lo que permite usarlo desde varias computadoras al mismo tiempo dentro del local.
 
  En resumen, se busca que el sistema sea práctico, claro, y que resuelva las necesidades reales del comercio sin hacerlo más complicado de lo necesario.
+
+ # Colaborador: Manuel Serrano
